@@ -1,0 +1,8 @@
+prefix=/home/chenshuo/demo2_ws/install
+
+Name: publish_pointcloud
+Description: Description of publish_pointcloud
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

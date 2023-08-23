@@ -1,0 +1,2 @@
+livox_mapping:livox_ros_driver/livox_ros_driver:mycar_description:nav
+-DCATKIN_DEVEL_PREFIX=/home/chenshuo/demo2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chenshuo/demo2_ws/install -G Unix Makefiles

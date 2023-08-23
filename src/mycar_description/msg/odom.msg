@@ -1,0 +1,14 @@
+Header header
+string child_frame_id
+float64 x
+float64 y
+float64 z
+float64 qx
+float64 qy
+float64 qz
+float64 linear_x
+float64 linear_y
+float64 linear_z
+float64 angular_x
+float64 angular_y
+float64 angular_z

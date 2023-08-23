@@ -1,0 +1,7 @@
+<launch>
+    <include file="$(find nav)/launch/2d_map_publish.launch" />
+    <!-- <include file="$(find livox_ros_driver)/launch/livox_lidar.launch" />
+    <include file="$(find mycar_description)/launch/car.launch" /> -->
+    <!-- <include file="$(find nav)/launch/amcl.launch" /> -->
+    <!-- <include file="$(find nav)/launch/move_base.launch" /> -->
+</launch>

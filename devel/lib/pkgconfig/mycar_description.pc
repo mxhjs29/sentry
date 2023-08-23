@@ -1,0 +1,8 @@
+prefix=/home/chenshuo/demo2_ws/devel
+
+Name: mycar_description
+Description: Description of mycar_description
+Version: 0.0.0
+Cflags: -I/home/chenshuo/demo2_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: urdf xacro roscpp rospy std_msgs message_runtime geometry_msgs

@@ -1,0 +1,8 @@
+prefix=/home/chenshuo/demo2_ws/install
+
+Name: nav
+Description: Description of nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: map_server move_base roscpp rospy std_msgs serial
